@@ -1,0 +1,5 @@
+NAME=Buildroot
+VERSION=-ge7c5b86-dirty
+ID=buildroot
+VERSION_ID=2021.11.2
+PRETTY_NAME="Buildroot 2021.11.2"
